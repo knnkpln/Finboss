@@ -1,35 +1,72 @@
-# Kullanıcı Sözleşmesi
+Hizmet Şartları ve Kullanıcı Sözleşmesi (Terms of Service)
+Son Güncelleme: 15.06.2025
+1. Kabul Şartları
+FinBoss uygulamasını ("Hizmet") kullanarak bu şartları kabul etmiş olursunuz.
+2. Hizmet Tanımı
+FinBoss, kişisel gelir ve gider takibi yapmanızı sağlayan bir finansal yönetim uygulamasıdır. Tüm veriler cihazınızda yerel olarak saklanır.
+3. Kullanım Koşulları
 
-** PayFlow ** (bundan sonra "Uygulama" olarak anılacaktır), kullanıcıların gelir ve giderlerini takip ederek bütçelerini yönetmelerine olanak tanıyan bir mobil uygulamadır. 
-Uygulama’yı kullanarak, aşağıdaki şartları kabul etmiş olursunuz. Bu sözleşme, hem Apple App Store hem de Google Play Store kurallarına uygun olarak hazırlanmıştır.
+Uygulamayı yalnızca yasal ve kişisel amaçlarla kullanmalısınız
+Girdiğiniz bilgilerin doğruluğundan siz sorumlusunuz
+Uygulamayı kötüye kullanmamayı kabul edersiniz
 
-## 1. Kullanım Koşulları
-- Uygulama, yalnızca kişisel bütçe takibi amacıyla kullanılabilir.
-- Uygulama’yı yasa dışı faaliyetler için, başkalarına zarar vermek amacıyla veya kötü niyetle kullanmak yasaktır.
+4. Sorumluluk Sınırları
+4.1 Veri Doğruluğu
 
-## 2. Üyelik ve Veri Saklama
-- Uygulama’da üyelik sistemi yoktur ve kişisel kimlik bilgisi gerektirmez.
-- Verileriniz (gelir ve gider bilgileri), yalnızca cihazınızda ile yerel olarak saklanır. Verilerinizin yedeklenmesi, korunması veya kurtarılması sizin sorumluluğunuzdadır.
+Uygulamaya girdiğiniz tüm bilgilerin doğruluğu sizin sorumluluğunuzdadır
+Hesaplama hatalarından veya yanlış veri girişinden kaynaklanan sorunlardan sorumlu değiliz
 
-## 3. Bildirimler
-- Uygulama, yalnızca sizin izninizle bildirim gönderebilir. Bildirim ayarlarını iOS veya Android cihazınızın uygulama ayarlarından yönetebilirsiniz.
+4.2 Para Birimi Dönüşümleri
 
-## 4. Sorumluluk Sınırları
-- Uygulama, "olduğu gibi" sağlanır ve işlevsellik, doğruluk veya kesintisiz çalışma konusunda garanti verilmez.
-- Uygulama’nın kullanımı sonucunda oluşabilecek maddi kayıplar, veri kaybı veya diğer zararlardan geliştirici sorumlu tutulamaz.
-- Cihazınızın kaybolması, çalınması veya bozulması durumunda veri kaybından sorumlu değiliz.
+Döviz kurları üçüncü taraf hizmet sağlayıcıdan (Frankfurter API) alınmaktadır
+Kurların anlık güncelliği ve doğruluğu garanti edilemez
+Gösterilen kurlar yalnızca bilgi amaçlıdır, finansal işlemlerinizde referans alınmamalıdır
+İnternet bağlantısı olmadığında son alınan kurlar kullanılır
 
-## 5. Fikri Mülkiyet
-- Uygulama’nın tasarımı, kodu ve içeriği geliştiriciye aittir. Uygulama’yı kopyalamak, tersine mühendislik yapmak veya dağıtmak yasaktır.
+4.3 Bildirimler
 
-## 6. Platform Kuralları
-- **Apple App Store:** Uygulama, Apple’ın Kullanıcı Sözleşmesi ve App Store politikalarına uygun olarak çalışır.
-- **Google Play Store:** Uygulama, Google Play Geliştirici Politikaları’na uygun şekilde sunulur.
+Ödeme hatırlatma bildirimleri cihaz ve sistem ayarlarına bağlıdır
+Sistem güncellemeleri veya cihaz ayarları bildirimleri etkileyebilir
+Alınmayan veya geç alınan bildirimlerden sorumlu değiliz
 
-## 7. Sözleşmenin Güncellenmesi
-Bu sözleşme, gerektiğinde güncellenebilir. Değişiklikler Uygulama içinde bildirilecek ve bu sayfada yayınlanacaktır.
+4.4 İnternet Bağlantısı
 
-## 8. İletişim
-Sorularınız için [knn.kapln@gmail.com] adresinden bize ulaşabilirsiniz.
+Döviz kuru güncellemeleri ve reklam gösterimi internet gerektirir
+İnternet olmadan uygulama çevrimdışı modda çalışmaya devam eder
+Bağlantı sorunlarından kaynaklanan özellik kısıtlamalarından sorumlu değiliz
 
-Son Güncelleme: 03 Nisan 2025
+5. Fikri Mülkiyet Hakları
+
+Uygulama ve tüm içeriği telif hakkı ile korunmaktadır
+Uygulamayı kopyalayamaz, değiştiremez veya tersine mühendislik yapamazsınız
+FinBoss adı ve logosu sahibine aittir
+
+6. Üçüncü Taraf Hizmetler
+Uygulama aşağıdaki üçüncü taraf hizmetleri kullanır:
+
+Google AdMob: Reklam gösterimi (kendi gizlilik politikası geçerlidir)
+Frankfurter API: Döviz kuru bilgileri
+Notifee: Bildirim yönetimi
+
+Bu hizmetlerin kendi kullanım şartları ve gizlilik politikaları geçerlidir.
+7. Veri Yedekleme ve Kayıp
+
+Verileriniz yalnızca cihazınızda saklanır
+Cihaz değişikliği, arıza veya uygulama silinmesi durumunda veriler kaybolur
+Veri kaybından kullanıcı sorumludur, düzenli yedekleme önerilir
+
+8. Garanti Reddi
+Uygulama "OLDUĞU GİBİ" sunulmaktadır. Uygulamanın kesintisiz veya hatasız çalışacağına dair garanti verilmez.
+9. Hizmet Değişiklikleri
+
+Uygulamayı geliştirmek için özellikler ekleyebilir veya kaldırabiliriz
+Büyük değişiklikler uygulama güncellemesi ile gelecektir
+
+10. Sorumluluk Reddi
+Uygulamanın kullanımından doğabilecek doğrudan veya dolaylı zararlardan sorumlu tutulamayız.
+11. Uygulanacak Hukuk
+Bu sözleşme Türkiye Cumhuriyeti kanunlarına tabidir.
+12. Sözleşme Değişiklikleri
+Bu sözleşmeyi güncelleme hakkını saklı tutarız. Güncel sözleşme her zaman uygulama içinden erişilebilir olacaktır.
+13. İletişim
+Sorularınız için: kenan.kpln@hotmail.com
