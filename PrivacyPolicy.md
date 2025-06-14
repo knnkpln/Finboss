@@ -1,44 +1,55 @@
-# Gizlilik Sözleşmesi
+Gizlilik Politikası (Privacy Policy)
+Son Güncelleme: 15.06.2025
 
-**PayFlow** (bundan sonra "Uygulama" olarak anılacaktır), kullanıcıların gelir ve giderlerini takip ederek bütçelerini yönetmelerine yardımcı olmak amacıyla tasarlanmış bir mobil uygulamadır. 
-Bu gizlilik sözleşmesi, Uygulama’nın veri toplama, işleme ve koruma politikalarını açıklar. 
-Kullanıcı gizliliğine büyük önem veriyoruz ve hem Apple App Store hem de Google Play Store gerekliliklerine uygun şekilde şeffaf bir yaklaşım benimsiyoruz.
+1. Giriş
+FinBoss ("Uygulama") olarak, kullanıcılarımızın gizliliğini korumayı taahhüt ediyoruz. Bu Gizlilik Politikası, Uygulamamızı kullandığınızda hangi bilgilerin toplandığını, nasıl kullanıldığını ve korunduğunu açıklar.
 
-## 1. Toplanan Veriler
-Uygulama, kişisel veri toplama konusunda minimalist bir yaklaşım benimser ve aşağıdaki verileri **toplamaz**:
-- Kişisel kimlik bilgileri (ad, soyad, e-posta adresi, telefon numarası, şifre vb.)
-- Konum verileri
-- Kamera, mikrofon veya galeri erişimi
-- Cihaz kimlik bilgileri (örneğin, reklam kimliği veya cihaz seri numarası)
+2. Toplanan Bilgiler
 
-Uygulama, yalnızca cihazınızda yerel olarak çalışan veritabanını kullanır. Gelir ve gider verileriniz gibi tüm bilgiler sadece cihazınızda saklanır ve hiçbir şekilde uzak sunuculara aktarılmaz.
+2.1 Kullanıcı Tarafından Sağlanan Bilgiler
+Kişisel Finansal Kayıtlar: Uygulamaya girdiğiniz gelir ve gider bilgileri, tutarlar, kategoriler, açıklamalar
+Uygulama Tercihleri: Para birimi seçimi, tema tercihi, bildirim ayarları
+Tarih Bilgileri: İşlem tarihleri, ödeme/gelir tarihleri
 
-## 2. Bildirimler
-Uygulama, yalnızca sizin izninizle bildirim gönderebilir. Bildirimler, bütçe hatırlatmaları gibi Uygulama’nın temel işlevselliği ile sınırlıdır ve kişisel veri içermez. 
-Bildirim iznini cihazınızın ayarlarından (iOS’ta Bildirimler menüsü, Android’de Uygulama Ayarları) istediğiniz zaman kapatabilirsiniz.
+2.2 Üçüncü Taraf Hizmetler Tarafından Toplanan Bilgiler
+Google AdMob:
+Cihaz bilgileri (model, işletim sistemi sürümü)
+Anonim kullanım verileri
+Reklam etkileşimleri
 
-## 3. Veri Kullanımı ve İşleme
-- Uygulama, topladığı verileri (yerel veritabanındaki gelir ve gider bilgileri) yalnızca bütçe takibi işlevini yerine getirmek için kullanır.
-- Verileriniz analiz, reklam veya başka bir amaçla işlenmez.
+Para Birimi API'si (Frankfurter.app): Yalnızca döviz kuru bilgileri alınır
 
-## 4. Veri Paylaşımı
-Uygulama, verilerinizi hiçbir üçüncü tarafla (örneğin reklam ağları, analiz servisleri veya diğer şirketler) paylaşmaz, satmaz veya aktarmaz. Verileriniz yalnızca cihazınızda kalır.
+Not: Uygulamamız kendisi herhangi bir cihaz bilgisi veya kullanım verisi toplamaz. Bu veriler yalnızca Google AdMob tarafından reklam gösterimi için toplanır.
 
-## 5. Veri Güvenliği
-- Verileriniz cihazınızda yerel olarak saklandığından, güvenliği tamamen cihazınızın koruma mekanizmalarına (örneğin, ekran kilidi veya şifreleme) bağlıdır.
-- Uygulama, ek bir şifreleme veya güvenlik katmanı sunmaz; bu nedenle cihazınızın güvenliğinden siz sorumlusunuz.
+3. Bilgilerin Kullanımı
 
-## 6. Çocukların Gizliliği
-Uygulama, 13 yaşın altındaki çocuklara yönelik değildir ve bu yaş grubundan bilinçli olarak veri toplamaz. Çocukların kullanımına yönelik herhangi bir özellik veya reklam içermez.
+Uygulamada girdiğiniz bilgiler size şu hizmetleri sağlamak için kullanılır:
+- Gelir ve gider kayıtlarınızı cihazınızda saklamak ve göstermek
+- Farklı para birimleri arasında dönüşüm yapmak
+- Ödeme tarihleriniz için hatırlatıcı bildirimler oluşturmak
+- Tercihlerinize göre uygulamayı özelleştirmek (tema, para birimi)
 
-## 7. Platform Gereklilikleri
-- **Apple App Store:** Uygulama, Apple’ın App Store İnceleme Yönergeleri’ne uygun olarak hiçbir kişisel veri toplamaz ve kullanıcı izni olmadan cihaza erişim sağlamaz.
-- **Google Play Store:** Google Play Veri Güvenliği politikalarına uygun olarak, Uygulama yalnızca yerel veri işler ve hiçbir veriyi paylaşmaz.
+4. Veri Depolama ve Güvenlik
+Yerel Depolama: Tüm kişisel finansal kayıtlarınız yalnızca kendi cihazınızda saklanır
+Bulut Yedekleme: Uygulama bulut yedekleme hizmeti sunmaz
+Veri Güvenliği: Verileriniz cihazınızın kendi güvenlik sistemleri tarafından korunur
+Üçüncü Taraf Erişimi: Girdiğiniz finansal bilgiler hiçbir şekilde internete gönderilmez veya üçüncü taraflarla paylaşılmaz
 
-## 8. Değişiklikler
-Bu gizlilik sözleşmesinde değişiklik yapılırsa, Uygulama içinde bir bildirimle veya güncellenmiş bir sürümle sizi bilgilendireceğiz. Güncel sürüm, bu sayfada her zaman erişilebilir olacaktır.
+5. İzinler
+Uygulama aşağıdaki izinleri kullanır:
+- İnternet Erişimi: Güncel döviz kurlarını almak ve reklam göstermek için
+- Bildirim Gönderme: Ödeme hatırlatmaları için (yalnızca izin verirseniz)
+- Ağ Durumu Kontrolü: Çevrimdışı modda çalışabilmek için
 
-## 9. İletişim
-Sorularınız için lütfen [knn.kapln@gmail.com] adresinden bize ulaşın.
+6. Çocukların Gizliliği
+Uygulamamız 13 yaş altı çocuklara yönelik değildir ve bu yaş grubundan bilerek veri toplamaz.
 
-Son Güncelleme: 03 Nisan 2025
+7. Veri Silme
+Ayarlar > "Tüm Verileri Temizle" seçeneğinden tüm verilerinizi kalıcı olarak silebilirsiniz
+Uygulamayı cihazınızdan kaldırdığınızda tüm verileriniz otomatik olarak silinir
+
+8. Politika Değişiklikleri
+Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Önemli değişiklikler olması durumunda, politikanın güncellendiğini bu sayfada belirtiriz.
+
+9. İletişim
+Gizlilik ile ilgili sorularınız için: kenan.kpln@hotmail.com
